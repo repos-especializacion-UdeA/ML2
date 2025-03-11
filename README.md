@@ -25,4 +25,5 @@ Otros:
 * https://medium.com/inst414-data-science-tech/cluster-analysis-on-fifa-23-players-k-means-clustering-28f88b908cf6
 * https://github.com/miraehab/FIFA-23-ML-Project/tree/main
 * https://github.com/atwyburde/East-West-Airlines-Analysis
+* https://github.com/PacktPublishing/Data-Labeling-in-Machine-Learning-with-Python/tree/main
 
