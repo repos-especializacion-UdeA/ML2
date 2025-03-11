@@ -26,4 +26,5 @@ Otros:
 * https://github.com/miraehab/FIFA-23-ML-Project/tree/main
 * https://github.com/atwyburde/East-West-Airlines-Analysis
 * https://github.com/PacktPublishing/Data-Labeling-in-Machine-Learning-with-Python/tree/main
+* https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
 
