@@ -27,4 +27,5 @@ Otros:
 * https://github.com/atwyburde/East-West-Airlines-Analysis
 * https://github.com/PacktPublishing/Data-Labeling-in-Machine-Learning-with-Python/tree/main
 * https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
+* https://jakevdp.github.io/PythonDataScienceHandbook/
 
