@@ -28,4 +28,6 @@ Otros:
 * https://github.com/PacktPublishing/Data-Labeling-in-Machine-Learning-with-Python/tree/main
 * https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
 * https://jakevdp.github.io/PythonDataScienceHandbook/
+* https://davetang.github.io/muse/adjusted_rand_index.html
+
 
