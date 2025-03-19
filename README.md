@@ -29,5 +29,14 @@ Otros:
 * https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
 * https://jakevdp.github.io/PythonDataScienceHandbook/
 * https://davetang.github.io/muse/adjusted_rand_index.html
+* https://github.com/ageron/handson-ml3/blob/main/09_unsupervised_learning.ipynb
+* https://github.com/yanshengjia/ml-road/tree/master
+
+Para la monografia:
+* https://github.com/kaviles22/EMG_SignalClassification
+* https://github.com/ShekharShwetank/EMG_ANN
+* https://github.com/jadoonengr/DataCamp-Notes/blob/master/18.%20Unsupervised%20Learning%20in%20Python.ipynb
+* https://residentmario.github.io/geoplot/gallery/plot_boston_airbnb_kde.html
+* https://residentmario.github.io/geoplot/plot_references/plot_reference.html
 
 
