@@ -9,3 +9,6 @@
 * https://github.com/jbagnato/machine-learning/blob/master/Ejercicio_PCA.ipynb
 * https://www.datacamp.com/es/tutorial/principal-component-analysis-in-python
 * https://geostatsguy.github.io/MachineLearningDemos_Book/MachineLearning_PCA.html
+* https://gitlabio.z6.web.core.windows.net/aai-url/
+* https://github.com/matworx/inf-ks-notebooks
+
